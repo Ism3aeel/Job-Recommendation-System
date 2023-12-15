@@ -1,0 +1,183 @@
+,User Id,Job ID,Score,Business Title,Current Job
+0,2,607141,0.6414213562373096,Senior Software Engineer,Software Engineer
+1,2,607141,0.6414213562373096,Senior Software Engineer,Software Engineer
+2,2,614216,0.5,SOFTWARE ENGINEER,Software Engineer
+3,2,614216,0.5,SOFTWARE ENGINEER,Software Engineer
+4,2,607092,0.5,Senior Software Engineer (MS-Dynamics),Software Engineer
+5,2,607092,0.5,Senior Software Engineer (MS-Dynamics),Software Engineer
+6,2,607036,0.5,Senior Software Engineer (GeoSupport),Software Engineer
+7,2,607036,0.5,Senior Software Engineer (GeoSupport),Software Engineer
+8,2,608859,0.39142135623730956,Software Developer,Software Engineer
+9,2,608859,0.39142135623730956,Software Developer,Software Engineer
+10,3,599962,0.85,"Data Management and Quality Analyst, Bureau of Hepatitis, HIV, and STI",Student
+11,3,599962,0.85,"Data Management and Quality Analyst, Bureau of Hepatitis, HIV, and STI",Student
+12,3,583000,0.85,Technology Project Management Analyst,Student
+13,3,583000,0.85,Technology Project Management Analyst,Student
+14,3,611713,0.85,"Data Analyst, Bureau of Hepatitis, HIV, and STI",Student
+15,3,611713,0.85,"Data Analyst, Bureau of Hepatitis, HIV, and STI",Student
+16,3,601864,0.85,QA Automation (College Aide),Student
+17,3,601864,0.85,QA Automation (College Aide),Student
+18,3,600449,0.85,Analyst  Data and Systems,Student
+19,3,600449,0.85,Analyst  Data and Systems,Student
+20,4,605118,0.6897366596101028,Senior Data Analyst,Data Analyst
+21,4,605118,0.6897366596101028,Senior Data Analyst,Data Analyst
+22,4,594373,0.6889822365046137,Senior Business Intelligence Data Analyst,Data Analyst
+23,4,594373,0.6889822365046137,Senior Business Intelligence Data Analyst,Data Analyst
+24,4,609025,0.6889822365046137,"Data Analyst  Policy, Research & Analysis",Data Analyst
+25,4,609025,0.6889822365046137,"Data Analyst  Policy, Research & Analysis",Data Analyst
+26,4,611713,0.6732050807568878,"Data Analyst, Bureau of Hepatitis, HIV, and STI",Data Analyst
+27,4,611713,0.6732050807568878,"Data Analyst, Bureau of Hepatitis, HIV, and STI",Data Analyst
+28,4,605039,0.6414213562373096,Associate Data Analyst,Data Analyst
+29,4,605039,0.6414213562373096,Associate Data Analyst,Data Analyst
+30,6,591504,0.8132993161855453,Civil Engineering Intern,Student
+31,6,591504,0.8132993161855453,Civil Engineering Intern,Student
+32,6,568499,0.7914213562373096,ENVIRONMENTAL ENGINEERING INTERN,Student
+33,6,568499,0.7914213562373096,ENVIRONMENTAL ENGINEERING INTERN,Student
+34,6,549966,0.7914213562373096,CIVIL ENGINEERING INTERN,Student
+35,6,549966,0.7914213562373096,CIVIL ENGINEERING INTERN,Student
+36,6,554402,0.7914213562373096,Environmental Engineering Intern,Student
+37,6,554402,0.7914213562373096,Environmental Engineering Intern,Student
+38,6,549925,0.7914213562373096,Civil Engineering Intern,Student
+39,6,549925,0.7914213562373096,Civil Engineering Intern,Student
+40,7,564205,0.6825741858350554,Civil Engineer 3,Engineer
+41,7,564205,0.6825741858350554,Civil Engineer 3,Engineer
+42,7,595959,0.6732050807568878,DESIGN ENGINEER,Engineer
+43,7,595959,0.6732050807568878,DESIGN ENGINEER,Engineer
+44,7,581069,0.6632993161855453,Assistant Civil Engineer,Engineer
+45,7,581069,0.6632993161855453,Assistant Civil Engineer,Engineer
+46,7,597841,0.6632993161855453,Project Engineer,Engineer
+47,7,597841,0.6632993161855453,Project Engineer,Engineer
+48,7,597884,0.6632993161855453,Project Engineer,Engineer
+49,7,597884,0.6632993161855453,Project Engineer,Engineer
+50,8,611713,0.7,"Data Analyst, Bureau of Hepatitis, HIV, and STI",Data Analyst
+51,8,611713,0.7,"Data Analyst, Bureau of Hepatitis, HIV, and STI",Data Analyst
+52,8,609025,0.6897366596101028,"Data Analyst  Policy, Research & Analysis",Data Analyst
+53,8,609025,0.6897366596101028,"Data Analyst  Policy, Research & Analysis",Data Analyst
+54,8,605039,0.6889822365046137,Associate Data Analyst,Data Analyst
+55,8,605039,0.6889822365046137,Associate Data Analyst,Data Analyst
+56,8,576363,0.6889822365046137,Data Quality Analyst,Data Analyst
+57,8,576363,0.6889822365046137,Data Quality Analyst,Data Analyst
+58,8,600449,0.6732050807568878,Analyst  Data and Systems,Data Analyst
+59,8,600449,0.6732050807568878,Analyst  Data and Systems,Data Analyst
+60,10,598072,0.8232050807568878,Civil Engineering Intern,Student
+61,10,598072,0.8232050807568878,Civil Engineering Intern,Student
+62,10,598056,0.8232050807568878,Environmental Engineering Intern,Student
+63,10,598056,0.8232050807568878,Environmental Engineering Intern,Student
+64,10,591504,0.8132993161855453,Civil Engineering Intern,Student
+65,10,591504,0.8132993161855453,Civil Engineering Intern,Student
+66,10,568499,0.7914213562373096,ENVIRONMENTAL ENGINEERING INTERN,Student
+67,10,568499,0.7914213562373096,ENVIRONMENTAL ENGINEERING INTERN,Student
+68,10,549966,0.7914213562373096,CIVIL ENGINEERING INTERN,Student
+69,10,549966,0.7914213562373096,CIVIL ENGINEERING INTERN,Student
+70,11,601835,0.31329931618554524,Early Childhood Education Consultant,Teacher
+71,11,601835,0.31329931618554524,Early Childhood Education Consultant,Teacher
+72,11,597995,0.31329931618554524,Early Childhood Education Consultant,Teacher
+73,11,597995,0.31329931618554524,Early Childhood Education Consultant,Teacher
+74,11,607104,0.31329931618554524,"Early Childhood Education Consultant , Bureau of Childcare",Teacher
+75,11,607104,0.31329931618554524,"Early Childhood Education Consultant , Bureau of Childcare",Teacher
+76,11,596737,0.31329931618554524,Early Childhood Education Consultant,Teacher
+77,11,596737,0.31329931618554524,Early Childhood Education Consultant,Teacher
+78,11,604612,0.31329931618554524,Senior Coordinator for Educational Programs,Teacher
+79,11,604612,0.31329931618554524,Senior Coordinator for Educational Programs,Teacher
+80,11,604612,0.31329931618554524,Senior Coordinator for Educational Programs,Teacher
+81,12,605118,0.6697056274847715,Senior Data Analyst,Data Analyst
+82,12,605118,0.6697056274847715,Senior Data Analyst,Data Analyst
+83,12,594373,0.6690308509457034,Senior Business Intelligence Data Analyst,Data Analyst
+84,12,594373,0.6690308509457034,Senior Business Intelligence Data Analyst,Data Analyst
+85,12,609025,0.6690308509457034,"Data Analyst  Policy, Research & Analysis",Data Analyst
+86,12,609025,0.6690308509457034,"Data Analyst  Policy, Research & Analysis",Data Analyst
+87,12,611713,0.6549193338482967,"Data Analyst, Bureau of Hepatitis, HIV, and STI",Data Analyst
+88,12,611713,0.6549193338482967,"Data Analyst, Bureau of Hepatitis, HIV, and STI",Data Analyst
+89,12,605039,0.6264911064067352,Associate Data Analyst,Data Analyst
+90,12,605039,0.6264911064067352,Associate Data Analyst,Data Analyst
+91,13,606013,0.6414213562373096,College Aide-Security Analyst,Student
+92,13,606013,0.6414213562373096,College Aide-Security Analyst,Student
+93,13,549839,0.6414213562373096,Security Architect,Student
+94,13,549839,0.6414213562373096,Security Architect,Student
+95,13,597390,0.5,Agency Attorney - Litigation Support Unit,Student
+96,13,597390,0.5,Agency Attorney - Litigation Support Unit,Student
+97,13,613880,0.5,ASSISTANT RESIDENT BUILDING SUPT,Student
+98,13,613880,0.5,ASSISTANT RESIDENT BUILDING SUPT,Student
+99,13,608131,0.5,Community Associate,Student
+100,13,608131,0.5,Community Associate,Student
+101,14,607393,0.6543033499620919,Cyber Security Analyst,Cybersecurity Analyst
+102,14,607393,0.6543033499620919,Cyber Security Analyst,Cybersecurity Analyst
+103,14,590723,0.6032795558988645,Cyber Security Analyst,Cybersecurity Analyst
+104,14,590723,0.6032795558988645,Cyber Security Analyst,Cybersecurity Analyst
+105,14,606001,0.45664965809277264,IT Security Analyst,Cybersecurity Analyst
+106,14,606001,0.45664965809277264,IT Security Analyst,Cybersecurity Analyst
+107,14,602727,0.375,Security Analyst,Cybersecurity Analyst
+108,14,602727,0.375,Security Analyst,Cybersecurity Analyst
+109,14,607487,0.33164965809277264,DATA ANALYST,Cybersecurity Analyst
+110,14,607487,0.33164965809277264,DATA ANALYST,Cybersecurity Analyst
+111,16,564205,0.6788854381999831,Civil Engineer 3,Engineer
+112,16,564205,0.6788854381999831,Civil Engineer 3,Engineer
+113,16,595959,0.6690308509457034,DESIGN ENGINEER,Engineer
+114,16,595959,0.6690308509457034,DESIGN ENGINEER,Engineer
+115,16,581069,0.6549193338482967,Assistant Civil Engineer,Engineer
+116,16,581069,0.6549193338482967,Assistant Civil Engineer,Engineer
+117,16,597841,0.6549193338482967,Project Engineer,Engineer
+118,16,597841,0.6549193338482967,Project Engineer,Engineer
+119,16,597884,0.6549193338482967,Project Engineer,Engineer
+120,16,597884,0.6549193338482967,Project Engineer,Engineer
+121,17,601835,0.3500000000000001,Early Childhood Education Consultant,Teacher
+122,17,601835,0.3500000000000001,Early Childhood Education Consultant,Teacher
+123,17,597995,0.3500000000000001,Early Childhood Education Consultant,Teacher
+124,17,597995,0.3500000000000001,Early Childhood Education Consultant,Teacher
+125,17,607104,0.3500000000000001,"Early Childhood Education Consultant , Bureau of Childcare",Teacher
+126,17,607104,0.3500000000000001,"Early Childhood Education Consultant , Bureau of Childcare",Teacher
+127,17,596737,0.3500000000000001,Early Childhood Education Consultant,Teacher
+128,17,596737,0.3500000000000001,Early Childhood Education Consultant,Teacher
+129,17,604612,0.3500000000000001,Senior Coordinator for Educational Programs,Teacher
+130,17,604612,0.3500000000000001,Senior Coordinator for Educational Programs,Teacher
+131,17,604612,0.3500000000000001,Senior Coordinator for Educational Programs,Teacher
+132,19,601835,0.35,Early Childhood Education Consultant,None
+133,19,601835,0.35,Early Childhood Education Consultant,None
+134,19,597995,0.35,Early Childhood Education Consultant,None
+135,19,597995,0.35,Early Childhood Education Consultant,None
+136,19,607104,0.35,"Early Childhood Education Consultant , Bureau of Childcare",None
+137,19,607104,0.35,"Early Childhood Education Consultant , Bureau of Childcare",None
+138,19,580401,0.35,"Health Education Specialist, Bureau of School Health",None
+139,19,580401,0.35,"Health Education Specialist, Bureau of School Health",None
+140,19,596880,0.35,"Condom Education Specialist, Bureau of Hepatitis, HIV, and STI",None
+141,19,596880,0.35,"Condom Education Specialist, Bureau of Hepatitis, HIV, and STI",None
+142,20,539938,0.6154700538379252,"Laboratory Associate II, Bureau of the Public Health Laboratory",Laboratory associate
+143,20,539938,0.6154700538379252,"Laboratory Associate II, Bureau of the Public Health Laboratory",Laboratory associate
+144,20,550419,0.6154700538379252,Associate Laboratory Microbiologist,Laboratory associate
+145,20,550419,0.6154700538379252,Associate Laboratory Microbiologist,Laboratory associate
+146,20,595581,0.6095445115010333,"Associate Laboratory Microbiologist III, Bureau of the Public Health Laboratory",Laboratory associate
+147,20,595581,0.6095445115010333,"Associate Laboratory Microbiologist III, Bureau of the Public Health Laboratory",Laboratory associate
+148,20,610643,0.6095445115010333,"Associate Laboratory Microbiologist, Bureau of the Public Health Laboratory",Laboratory associate
+149,20,610643,0.6095445115010333,"Associate Laboratory Microbiologist, Bureau of the Public Health Laboratory",Laboratory associate
+150,20,595482,0.6095445115010333,"Associate Laboratory Microbiologist I, Bureau of the Public Health Laboratory",Laboratory associate
+151,20,595482,0.6095445115010333,"Associate Laboratory Microbiologist I, Bureau of the Public Health Laboratory",Laboratory associate
+152,22,599962,0.7,"Data Management and Quality Analyst, Bureau of Hepatitis, HIV, and STI",Student
+153,22,599962,0.7,"Data Management and Quality Analyst, Bureau of Hepatitis, HIV, and STI",Student
+154,22,583000,0.7,Technology Project Management Analyst,Student
+155,22,583000,0.7,Technology Project Management Analyst,Student
+156,22,611713,0.7,"Data Analyst, Bureau of Hepatitis, HIV, and STI",Student
+157,22,611713,0.7,"Data Analyst, Bureau of Hepatitis, HIV, and STI",Student
+158,22,601864,0.7,QA Automation (College Aide),Student
+159,22,601864,0.7,QA Automation (College Aide),Student
+160,22,600449,0.7,Analyst  Data and Systems,Student
+161,22,600449,0.7,Analyst  Data and Systems,Student
+162,25,583000,0.7,Technology Project Management Analyst,Student
+163,25,583000,0.7,Technology Project Management Analyst,Student
+164,25,600449,0.7,Analyst  Data and Systems,Student
+165,25,600449,0.7,Analyst  Data and Systems,Student
+166,25,601023,0.6732050807568878,College Aide,Student
+167,25,601023,0.6732050807568878,College Aide,Student
+168,25,615686,0.6732050807568878,"CIR Statistician, Bureau of Immunization  Statistician",Student
+169,25,615686,0.6732050807568878,"CIR Statistician, Bureau of Immunization  Statistician",Student
+170,25,601864,0.6732050807568878,QA Automation (College Aide),Student
+171,25,601864,0.6732050807568878,QA Automation (College Aide),Student
+172,26,615519,0.7316496580927726,Assistant Corporation Counsel - Administrative Law and Regulatory Litigation,Student
+173,26,615519,0.7316496580927726,Assistant Corporation Counsel - Administrative Law and Regulatory Litigation,Student
+174,26,614219,0.6825741858350554,Legal Intern- Office of the General Counsel (2 positions),Student
+175,26,614219,0.6825741858350554,Legal Intern- Office of the General Counsel (2 positions),Student
+176,26,584407,0.6632993161855453,Procurement Liaison,Student
+177,26,584407,0.6632993161855453,Procurement Liaison,Student
+178,26,589244,0.6632993161855453,Confidential Investigator,Student
+179,26,589244,0.6632993161855453,Confidential Investigator,Student
+180,26,609273,0.6543033499620919,Community Liaison,Student
+181,26,609273,0.6543033499620919,Community Liaison,Student
